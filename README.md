@@ -1,1 +1,2 @@
 Durka
+Sam durak
